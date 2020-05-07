@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include",
+        "/home/dina/catkin_ws/devel/include",
+        "/home/dina/catkin_ws/src/betabot/Move_Square/include",
+        "/home/dina/catkin_ws/src/betabot/betabot_avoider/include",
+        "/home/dina/catkin_ws/src/myapp/include",
+        "/home/dina/catkin_ws/src/betabot/robot_localization/include",
+        "/home/dina/catkin_ws/src/betabot/robot_pose_ekf/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}

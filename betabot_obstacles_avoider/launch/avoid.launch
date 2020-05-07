@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find betabot_gazebo)/launch/betabot_myflat_world.launch"/>
+    <node name="avoid_node" pkg="betabot_avoider" type="avoid_node.py" />
+</launch>

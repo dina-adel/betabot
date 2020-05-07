@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find betabot_gazebo)/launch/betabot_empty_world.launch"/>
+    <node name = "MoveSquare_OdemServer" pkg="Move_Square" type= "MoveSquare_OdemServer"/>
+</launch>
